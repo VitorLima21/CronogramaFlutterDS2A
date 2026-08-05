@@ -1,4 +1,4 @@
-# 📱 Flutter Roadmap
+# Flutter Roadmap
 
 Este repositório documenta minha jornada aprendendo Flutter, desde os fundamentos da linguagem Dart até o desenvolvimento e publicação de aplicativos completos para Android e iOS.
 
