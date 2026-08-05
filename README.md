@@ -4,9 +4,9 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 📚 Roadmap
+# Roadmap
 
-## 🟦 Módulo 1 — Fundamentos do Dart
+## Módulo 1 — Fundamentos do Dart
 
 ### Introdução
 
@@ -75,7 +75,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🟩 Módulo 2 — Ambiente Flutter
+# Módulo 2 — Ambiente Flutter
 
 - [ ] O que é Flutter
 - [ ] Flutter SDK
@@ -88,7 +88,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🎨 Módulo 3 — Primeiros Passos
+# Módulo 3 — Primeiros Passos
 
 - [ ] Criar Projeto
 - [ ] Estrutura de Pastas
@@ -99,7 +99,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🧩 Módulo 4 — Widgets
+# Módulo 4 — Widgets
 
 - [ ] O que é Widget
 - [ ] StatelessWidget
@@ -117,7 +117,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 📐 Módulo 5 — Layout
+# Módulo 5 — Layout
 
 - [ ] Row
 - [ ] Column
@@ -132,7 +132,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 📱 Módulo 6 — Interface
+# Módulo 6 — Interface
 
 - [ ] Botões
 - [ ] TextField
@@ -147,7 +147,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🧭 Módulo 7 — Navegação
+# Módulo 7 — Navegação
 
 - [ ] Navigator
 - [ ] Rotas Nomeadas
@@ -158,7 +158,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 📂 Módulo 8 — Assets
+# Módulo 8 — Assets
 
 - [ ] Imagens
 - [ ] Ícones
@@ -168,7 +168,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🌐 Módulo 9 — Consumo de APIs
+# Módulo 9 — Consumo de APIs
 
 - [ ] HTTP
 - [ ] REST
@@ -179,7 +179,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 💾 Módulo 10 — Banco de Dados
+# Módulo 10 — Banco de Dados
 
 - [ ] Shared Preferences
 - [ ] SQLite
@@ -188,7 +188,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🔐 Módulo 11 — Firebase
+# Módulo 11 — Firebase
 
 - [ ] Configuração
 - [ ] Authentication
@@ -200,7 +200,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🧠 Módulo 12 — Gerenciamento de Estado
+# Módulo 12 — Gerenciamento de Estado
 
 - [ ] setState
 - [ ] ChangeNotifier
@@ -212,7 +212,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# ✨ Módulo 13 — Animações
+# Módulo 13 — Animações
 
 - [ ] AnimatedContainer
 - [ ] AnimatedBuilder
@@ -224,7 +224,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🧪 Módulo 14 — Testes
+# Módulo 14 — Testes
 
 - [ ] Unit Test
 - [ ] Widget Test
@@ -233,7 +233,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🛠️ Módulo 15 — Ferramentas
+# Módulo 15 — Ferramentas
 
 - [ ] Flutter Inspector
 - [ ] Flutter Outline
@@ -243,7 +243,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🏗️ Módulo 16 — Arquitetura
+# Módulo 16 — Arquitetura
 
 - [ ] SOLID
 - [ ] Clean Architecture
@@ -254,7 +254,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🔄 Módulo 17 — Versionamento
+# Módulo 17 — Versionamento
 
 - [ ] Git
 - [ ] GitHub
@@ -263,7 +263,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🚀 Módulo 18 — Publicação
+# Módulo 18 — Publicação
 
 - [ ] Build APK
 - [ ] Build AppBundle
@@ -273,7 +273,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 📦 Projeto Final
+# Projeto Final
 
 - [ ] Aplicativo Completo
 - [ ] Login
@@ -287,7 +287,7 @@ Este repositório documenta minha jornada aprendendo Flutter, desde os fundament
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 - Dart
 - Flutter
